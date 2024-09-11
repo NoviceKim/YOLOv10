@@ -5,4 +5,11 @@
   
 - 기초적인 예시로, 아래와 같은 물체 감지가 가능합니다.
 
-<>
+  <div style='display: flex; flex-direction: row; margin-left: 20px; margin-top: 10px;'>
+    <div>
+      <img src='./predicted_images/new_test_pred.png' width='400px' style='margin-right: 10px;'>
+    </div>
+    <div>
+      <img src='./predicted_images/the_test_pred.png' width='400px'>
+    </div>
+  </div>
